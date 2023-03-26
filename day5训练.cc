@@ -25,7 +25,6 @@ public:
 };
 #include <iostream>
 using namespace std;
-
 int main() {
     int H;
     int W;
@@ -38,7 +37,6 @@ int main() {
             arr[i][j]=0;
         }
     }
-    
     for(int i=0;i<H;i++)
     {
         for(int j=0;j<W;j++)
@@ -69,7 +67,5 @@ int main() {
             sum+=arr[i][j];
         }
     }
-
 cout<<sum;
-
 }

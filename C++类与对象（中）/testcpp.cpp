@@ -4,24 +4,24 @@ using namespace std;
 
 
 
-//class Date
-//{
-//	friend ostream& operator<<(ostream& out, const Date& d)
-//	{
-//		out << d._year << "/" << d._month << "/" << d._day << endl;
-//		return out;
-//	}
-//public:
-//	Date(int year, int month, int day)
-//		: _year(year)
-//		, _month(month)
-//		, _day(day)
-//	{}
-//private:
-//	int _year;
-//	int _month;
-//	int _day;
-//};
+class Date
+{
+	friend ostream& operator<<(ostream& out, const Date& d)
+	{
+		out << d._year << "/" << d._month << "/" << d._day << endl;
+		return out;
+	}
+public:
+	Date(int year, int month, int day)
+		: _year(year)
+		, _month(month)
+		, _day(day)
+	{}
+private:
+	int _year;
+	int _month;
+	int _day;
+};
 
 //class A
 //{
