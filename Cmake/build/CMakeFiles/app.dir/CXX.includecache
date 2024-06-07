@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/math.h
+iostream
+-
+vector
+-
+
+/home/wq/24_06_06/src/add.cpp
+
+/home/wq/24_06_06/src/main.cpp
+iostream
+-
+math.h
+/home/wq/24_06_06/src/math.h
+
+/home/wq/24_06_06/src/sub.cpp
+
