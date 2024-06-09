@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++       CMakeFiles/test_sort.dir/sort.cpp.o  -o ../out/test_sort  -L/home/wq/24_06_06/demo/lib -rdynamic ../lib/libsort.a -Wl,-rpath,/home/wq/24_06_06/demo/lib 

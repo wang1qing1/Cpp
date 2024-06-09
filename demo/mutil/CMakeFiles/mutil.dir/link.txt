@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-7/root/usr/bin/ar cr ../lib/libmutil.a  CMakeFiles/mutil.dir/sub.cpp.o CMakeFiles/mutil.dir/add.cpp.o
+/opt/rh/devtoolset-7/root/usr/bin/ranlib ../lib/libmutil.a

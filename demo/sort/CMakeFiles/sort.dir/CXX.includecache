@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wq/24_06_06/demo/sort/insert.cpp
+math.h
+/home/wq/24_06_06/demo/sort/math.h
+
+/home/wq/24_06_06/demo/sort/select.cpp
+math.h
+/home/wq/24_06_06/demo/sort/math.h
+
+include/math.h
+iostream
+-
+vector
+-
+

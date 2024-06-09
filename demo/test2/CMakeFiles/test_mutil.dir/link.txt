@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++       CMakeFiles/test_mutil.dir/mutil.cpp.o  -o ../out/test_mutil  -L/home/wq/24_06_06/demo/lib -rdynamic ../lib/libmutil.a -Wl,-rpath,/home/wq/24_06_06/demo/lib 

@@ -1,0 +1,4 @@
+/home/wq/24_06_06/demo/mutil/CMakeFiles/mutil.dir
+/home/wq/24_06_06/demo/sort/CMakeFiles/sort.dir
+/home/wq/24_06_06/demo/test2/CMakeFiles/test_mutil.dir
+/home/wq/24_06_06/demo/test1/CMakeFiles/test_sort.dir
